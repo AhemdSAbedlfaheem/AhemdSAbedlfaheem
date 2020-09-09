@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I am [Ahmed Safwat](https://github.com/Ahmedsafwat101)
-I build this GitHub by my SJSU email but the one that I ma working on is https://github.com/Ahmedsafwat101 
+I build this GitHub using my SJSU email but the one that I ma working on is https://github.com/Ahmedsafwat101 
 ------ 
 
 <a href="https://www.linkedin.com/in/ahmedsafwat101/">
